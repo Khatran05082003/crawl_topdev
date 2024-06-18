@@ -58,6 +58,9 @@ python loadMySQL.py
 - **company_address** (TEXT): Address or location of the company.
   
 ### DEMO
-![image](https://github.com/Khatran05082003/crawl_topdev/assets/102920168/6a08a96e-a599-4c90-9623-821b4f6f7b90)
+![image](https://github.com/Khatran05082003/crawl_topdev/assets/102920168/7a98dc8b-f3b7-4ae1-ac24-6e3c6ea3f23c)
+
+
+
 
 
